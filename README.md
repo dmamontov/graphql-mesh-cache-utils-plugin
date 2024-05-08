@@ -28,7 +28,7 @@ Add the following paths configuration under the compilerOptions in your tsconfig
 {
   "compilerOptions": {
     "paths": {
-       "cacheUtils": ["node_modules/@dmamontov/graphql-mesh-cache-utils-plugin"]
+       "cache-utils": ["node_modules/@dmamontov/graphql-mesh-cache-utils-plugin"]
     }
   }
 }
